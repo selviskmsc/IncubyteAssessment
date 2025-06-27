@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/IncubyteAssessment.iml" filepath="$PROJECT_DIR$/.idea/IncubyteAssessment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/newtask.iml" filepath="$PROJECT_DIR$/.idea/newtask.iml" />
     </modules>
   </component>
 </project>
